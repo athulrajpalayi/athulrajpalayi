@@ -46,10 +46,30 @@ a web app, a self-updating offline Windows desktop app, and an Android app.
 *Private codebase — 114 API routes, 140+ automated tests, test-gated deployments, encrypted at rest.*
 👉 **[mix.shajipaints.com](https://mix.shajipaints.com)**
 
-## 🚧 More applications
+## 🚀 More applications
 
-More of my projects are on the way here — meanwhile, the story lives at
-**[athulrajpalayi.com](https://athulrajpalayi.com)**.
+### 🤖 Shaji AI — business intelligence you can talk to
+An employee-facing **conversational AI assistant** over live company data: staff ask plain-English
+(or voice) questions about sales, customers, receivables, inventory and HR — and get grounded
+answers as tables, charts, and one-click **PDF/Excel/Word/PPT reports**, with invoice-photo OCR,
+a scheduled 7am email briefing, and WhatsApp report delivery. ~29 AI tools over the database,
+strictly read-only — every number comes from a real query, never invented.
+`Angular` `Node.js/Express` `MongoDB` `AWS Bedrock · Claude` `Deepgram` `SSE streaming`
+
+### ⚖️ Shaji Mixing System — the scale talks to the browser
+A paint-tinting workbench where **industrial lab balances (Sartorius, Mettler Toledo) stream
+live weights straight into the browser over the Web Serial API — no middleware, no drivers to
+install**. Operators load a colour formula, tare in-app, and weigh out ingredient by ingredient
+with barcode selection. The predecessor that led to Shaji Color Vision.
+`Angular` `Web Serial API` `MT-SICS / SBI protocols` `SQLite colour DB`
+
+### 📁 DOCAS — HR document collection, minus the chasing
+A bilingual **English/Arabic (full RTL)** portal: HR builds a document checklist per position and
+sends each candidate a **secure, expiring, no-login upload link**; a live dashboard tracks who has
+submitted what. Pluggable storage — local disk, Google Drive, or OneDrive — switchable at runtime.
+`Next.js 16` `React 19` `Prisma · PostgreSQL` `JWT` `i18n EN/AR`
+
+More on **[athulrajpalayi.com](https://athulrajpalayi.com)**.
 
 ## 🧰 What I build with
 
