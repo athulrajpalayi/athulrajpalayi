@@ -34,17 +34,6 @@ live company data.
 - 🤖 **Vibe coder** — full products designed, built, audited, and shipped with AI pair-engineering
 - 🛡️ **Cybersecurity analyst** — encrypted-at-rest data, tenant isolation, audits, hardened deploys
 
-## 🚢 How I ship
-
-```mermaid
-flowchart LR
-    A["💡 Idea"] --> B["🤖 AI-assisted build"] --> C["🧪 Automated tests<br/>140+ per product"] --> D["🛡️ Security audit<br/>multi-agent review"] --> E["🚀 Test-gated deploy<br/>live smoke checks + rollback"] --> F["🔄 Self-updating<br/>in users' hands"]
-```
-
-Every deploy is gated by the full test suite *before* a byte reaches the server, verified by
-~20 live smoke tests after, and shipped with an automatic rollback point. Products update
-themselves — users always run the latest version without touching an installer.
-
 ---
 
 ## 🎨 Shaji Color Vision — flagship
