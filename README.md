@@ -34,21 +34,21 @@ live company data.
 
 ## 🎨 Shaji Color Vision — flagship
 
-> **The problem:** paint-brand software locks body shops into one supplier's colours and one workflow.
-> **What I built:** a brand-neutral colour-matching & mixing platform — **one codebase, three apps**: the web, a self-updating offline Windows desktop app, and Android.
+> **The problem:** Shaji Coatings needed colour-matching software as good as the multinationals' — built around its own brand, its own colours, and its own shop network, not rented from a competitor.
+> **What I built:** the Shaji brand's own colour-matching & mixing platform, in-house end to end — we built the 213,000-colour database, the live scale mixing integration, all of it — **one codebase, three apps**: the web, a self-updating offline Windows desktop app, and Android.
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-V5.46-0f6b4f?style=flat-square)
+![Version](https://img.shields.io/badge/version-V5.47-0f6b4f?style=flat-square)
 ![Platforms](https://img.shields.io/badge/Web%20·%20Windows%20·%20Android-2fa574?style=flat-square)
 ![Colours](https://img.shields.io/badge/colours-213%2C000%2B-34b57e?style=flat-square)
-![API](https://img.shields.io/badge/API-114%20routes-1f7a5c?style=flat-square)
-![Tests](https://img.shields.io/badge/tests-142%20passing-16a34a?style=flat-square)
+![API](https://img.shields.io/badge/API-115%20routes-1f7a5c?style=flat-square)
+![Tests](https://img.shields.io/badge/tests-144%20passing-16a34a?style=flat-square)
 ![Production](https://img.shields.io/badge/production-live-16a34a?style=flat-square)
 
 </div>
 
-- 🔍 **213,000+ automotive colours** searchable by make/model/year/code, with variant ranking and deviation analysis
+- 🔍 **Our own 213,000+ colour database** searchable by make/model/year/code, with variant ranking and deviation analysis
 - 📷 **Camera capture** — QR paint labels decoded exactly; printed codes read by *on-device* OCR (self-hosted, zero cloud)
 - 🔬 **Spectrophotometer integration** — measure a real panel with an X-Rite MA-5, match against the full library
 - ⚖️ **Gravimetric mixing** — live scale-driven pours with voice guidance, auto-capture, and glove-friendly *"N g to go"* UX
