@@ -58,7 +58,7 @@ live company data.
 - 🏢 **Multi-tenant SaaS architecture** — companies, roles, per-user price visibility, licensing with Ed25519-signed keys
 - 🔐 **Security posture** — SQLCipher-encrypted DB, AES-256-GCM field encryption for PII, CSP/HSTS, rate limits, tenant-isolation regression suite
 
-`Flask 3` `React 18 + TypeScript` `Vite 7` `Electron + PyInstaller sidecar` `Capacitor` `SQLite/SQLCipher` `nginx` — 👉 **[mix.shajipaints.com](https://mix.shajipaints.com)**
+`Flask 3` `React 18 + TypeScript` `Vite 7` `Electron + PyInstaller sidecar` `Capacitor` `SQLite/SQLCipher` `nginx`
 
 ---
 
