@@ -2,10 +2,9 @@
 
 # Hi, I'm Athulraj 👋
 
-**Founder & builder — I make software for the automotive paint trade.**
+**IT Executive @ Shaji Coatings LLC · Vibe coder · Cybersecurity analyst**
 
-I run [Shaji Paints](https://mix.shajipaints.com) (UAE) and build the tools our industry actually needs —
-shipping real products for the shop floor, hands-on, with AI-assisted engineering.
+I build software with AI — real, shipped applications, not demos.
 
 <br/>
 
@@ -16,7 +15,13 @@ shipping real products for the shop floor, hands-on, with AI-assisted engineerin
 
 ---
 
-## 🎨 Flagship — Shaji Color Vision
+## 🛠️ What I do
+
+- 💻 **Vibe coding** — I design, direct, and ship full products with AI-assisted engineering
+- 🛡️ **Cybersecurity analysis** — hardening, auditing, and keeping systems safe
+- 🏭 **IT at Shaji Coatings LLC** — running the tech that runs the business
+
+## 🎨 Shaji Color Vision — one of my applications
 
 A **brand-neutral automotive paint colour-matching & mixing platform**: one codebase shipping as
 a web app, a self-updating offline Windows desktop app, and an Android app.
@@ -36,10 +41,15 @@ a web app, a self-updating offline Windows desktop app, and an Android app.
 - ⚖️ **Scale-driven mixing** — live gravimetric pours with voice guidance and glove-friendly UX
 - 🚗 **Volume Suggestion** — tap the car panels being painted → exactly how much paint to mix
 - 📈 **Owner analytics** — per-shop dashboards and a cross-branch network view, PDF/CSV exports
-- 🔄 **Self-updating desktop** — its own update channel; shops always run the latest version
+- 🔄 **Self-updating desktop** — its own update channel; installs always run the latest version
 
 *Private codebase — 114 API routes, 140+ automated tests, test-gated deployments, encrypted at rest.*
 👉 **[mix.shajipaints.com](https://mix.shajipaints.com)**
+
+## 🚧 More applications
+
+More of my projects are on the way here — meanwhile, the story lives at
+**[athulrajpalayi.com](https://athulrajpalayi.com)**.
 
 ## 🧰 What I build with
 
@@ -53,13 +63,8 @@ a web app, a self-updating offline Windows desktop app, and an Android app.
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Claude](https://img.shields.io/badge/AI--assisted_engineering-Claude-d97706?style=flat-square)
 
-## 🚗 More
-
-Colour is my trade — software is how I sharpen it. More projects and the story on
-**[athulrajpalayi.com](https://athulrajpalayi.com)**.
-
 <div align="center">
 
-*Building for the people who actually mix the paint.* 🎨
+*Ship real things.* 🚀
 
 </div>
