@@ -1,25 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,60:1e293b,100:6366f1&height=170&text=Athulraj%20Palayi&fontSize=54&fontColor=f8fafc&animation=fadeIn&desc=Cyber%20%7C%20AI%20%7C%20Builder&descSize=20&descAlignY=78&fontAlignY=42" width="100%"/>
+<img src="assets/banner.svg" alt="Athulraj Palayi — Cyber | AI | Builder" width="100%"/>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3200&pause=900&color=818CF8&center=true&vCenter=true&width=600&lines=IT+Executive+%40+Shaji+Coatings+LLC;Vibe+coder+—+AI-assisted+engineering;Cybersecurity+analyst+·+CEH+v10;Shipping+across+web%2C+desktop+%26+mobile)](https://athulrajpalayi.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=IT+Executive+%40+Shaji+Coatings+LLC;Vibe+coder+—+AI-assisted+engineering;Cybersecurity+analyst+·+CEH+v10;Shipping+across+web%2C+desktop+%26+mobile)](https://athulrajpalayi.com)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-athulrajpalayi.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a)](https://athulrajpalayi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://linkedin.com/in/athulraj-palayi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0f172a)](https://wa.me/971582903572)
-[![Email](https://img.shields.io/badge/Email-imathulraj-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:imathulraj@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-athulrajpalayi.com-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=06111b)](https://athulrajpalayi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=06111b)](https://linkedin.com/in/athulraj-palayi)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=06111b)](https://wa.me/971582903572)
+[![Email](https://img.shields.io/badge/Email-imathulraj-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=06111b)](mailto:imathulraj@gmail.com)
 
 <br/>
 
-<img src="https://img.shields.io/badge/🛡️_CEH-v10_Certified-818cf8?style=flat-square&labelColor=0f172a" />
-&nbsp;
-<img src="https://img.shields.io/badge/📍-Dubai,_UAE-64748b?style=flat-square&labelColor=0f172a" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=athulrajpalayi&style=flat-square&color=6366f1&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=athulrajpalayi&style=flat-square&color=14b8a6&label=profile+views" />
 
 </div>
 
